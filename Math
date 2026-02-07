@@ -1,1 +1,31 @@
 index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Game Site</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      background: #111;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    iframe {
+      border-radius: 10px;
+      border: none;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🎮 My Game Site</h1>
+
+  <h2>Game 1</h2>
+  <iframe src="PASTE_EMBED_LINK_HERE"
+          width="800"
+          height="600"></iframe>
+
+</body>
+</html>
